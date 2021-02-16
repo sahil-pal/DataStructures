@@ -1,2 +1,2 @@
 # DataStructures
-Arraylist, LinkedList, Queue, Stacks Trees and sorting algroritms
+Arraylist, LinkedList, Queue, Stacks, Trees and sorting algroritms
